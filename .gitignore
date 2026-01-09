@@ -1,0 +1,12 @@
+
+# RL training artifacts
+logs/
+runs/
+**/replay_buffer.pkl
+*.pkl
+
+
+logs/
+runs/
+**/replay_buffer.pkl
+
